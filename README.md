@@ -6,15 +6,14 @@
 I have been working as a <b>Software Engineer</b> since 2006 and have gained experience in many different companies (startups, scale-ups, dev agencies) and roles (Developer, CTO, Tech Lead, Team Lead, Engineering Manager). My ideal future? Being an Engineering Manager helping diverse and multifunctional teams perform at their best.
 
 ## Stack
+<div style="display: flex; flex-direction: row">
 <img height="40" src="assets/logos/php.png">
 <img height="40" src="assets/logos/laravel.svg">
-<img height="40" src="assets/logos/symfony.svg"><br>
+<img height="40" src="assets/logos/symfony.svg">
 <img height="40" src="assets/logos/html5.svg">
-<img height="40" src="assets/logos/css.svg"><br>
+<img height="40" src="assets/logos/css.svg">
 <img height="40" src="assets/logos/js.svg">
 <img height="40" src="assets/logos/react.svg.png">
 <img height="40" src="assets/logos/ts.svg">
-<img height="40" src="assets/logos/vue.svg"><br>
-<img height="40" src="assets/logos/kubernetes.svg"><br>
-
-[]()
+<img height="40" src="assets/logos/vue.svg">
+</div>
