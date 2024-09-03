@@ -1,5 +1,5 @@
 # Hey there, I'm Javi
-[![Linkedin Badge](https://img.shields.io/badge/-javiernunezfernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/javiernunezfernandez/)](https://www.linkedin.com/in/javiernunezfernandez/))](https://www.linkedin.com/in/haany-ali) 
+[![Linkedin Badge](https://img.shields.io/badge/-javiernunezfernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/javiernunezfernandez](https://www.linkedin.com/in/javiernunezfernandez/)](https://www.linkedin.com/in/javiernunezfernandez/))](https://www.linkedin.com/in/javiernunezfernandez) 
 <br>[![Mail Badge](https://img.shields.io/badge/-javi@javiernunez.com-c14438?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:javi@javiernunez.com)](mailto:javi@javiernunez.com) 
 
 ## My Journey
